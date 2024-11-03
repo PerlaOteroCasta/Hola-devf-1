@@ -1,9 +1,0 @@
-ls -muestra el listado de carpetas de un directorio
-cd- permite abrir una carpeta 
-pwd- muestra la ruta del archivo que se esta utilizando
-mkdir- se usa para crear un directorio
-touch- se usa para crear un archivo
-cp - se usa para copiar archivos
-mv- se usa para mover archivos
-rm- es para borrar archivos
-clear- limpiar el espacio de trabajo de la terminal
